@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Alaia Solko-Breslin / Site Title"
+title                    : "Alaia Solko-Breslin"
 title_separator          : "-"
 name                     : &name "Alaia Solko-Breslin"
 description              : &description "personal description"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Alaia Solko-Breslin"
   avatar           : "alaia.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Incoming PhD student at University of Pennsylvania"
   location         : "Ithaca, NY"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : #"replacethistwitterhandle"
+  twitter          : "alaia_solko"
   vine             :
   weibo            :
   xing             :
@@ -182,10 +182,10 @@ collections:
     output: true
     permalink: /:collection/:path/
   portfolio:
-    output: false
+    output: true
     permalink: /:collection/:path/
   talks:
-    output: false
+    output: true
     permalink: /:collection/:path/
 
 
