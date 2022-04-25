@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Title"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,11 +8,22 @@ redirect_from:
   - /about.html
 ---
 
-This site is under construction.
+---
+
+I am a second-semester M.Eng. student at Cornell University studying computer science.
+I have had the privilege of working under [Nate Foster](https://www.cs.cornell.edu/~jnfoster/)
+and [Alexandra Silva](https://alexandrasilva.org/#/main.html) on DFA inference.
+I have also worked with Nate on [Petr4](https://github.com/verified-network-toolchain/petr4).
+I am currently working with [Adrian Sampson](https://www.cs.cornell.edu/~asampson/)
+on a synthesis engine for Rust programs.
 
 # News
+---
+
+\[April 2022\] I will be starting my Ph.D. at University of Pennsylvania this fall!
 
 # Publications
+---
 
 **Petr4: Formal Foundations for P4 Data Planes**
 
@@ -20,6 +31,7 @@ Ryan Doenges, Mina Tahmasbi Arashloo, Santiago Bautista, Alexander Chang, Newton
 PACM (POPL) 2021
 
 # Teaching
+---
 
 * **Spring 2022** Teaching Assistant for CS 4160: Formal Verification
 * **Fall 2021** Teaching Assistant for CS 3110: Data Structures and Functional Programming
