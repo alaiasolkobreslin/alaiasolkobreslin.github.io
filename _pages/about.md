@@ -10,15 +10,13 @@ redirect_from:
 
 ---
 
-I am a second-semester M.Eng. student at Cornell University studying computer science.
-I have had the privilege of working under [Nate Foster](https://www.cs.cornell.edu/~jnfoster/)
-and [Alexandra Silva](https://alexandrasilva.org/#/main.html) on DFA inference.
-I have also worked with Nate on [Petr4](https://github.com/verified-network-toolchain/petr4).
-I am currently working with [Adrian Sampson](https://www.cs.cornell.edu/~asampson/)
-on a synthesis engine for Rust programs.
+I am a first-year Ph.D. student at University of Pennsylvania advised by
+[Mayur Naik](https://www.cis.upenn.edu/~mhnaik/) and [Rajeev Alur](https://www.cis.upenn.edu/~alur/).
 
 # News
 ---
+
+\[June 2022\] I attended PLMW at PLDI.
 
 \[April 2022\] I will be starting my Ph.D. at University of Pennsylvania this fall!
 
