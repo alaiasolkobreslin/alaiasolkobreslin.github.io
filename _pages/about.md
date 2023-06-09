@@ -10,8 +10,9 @@ redirect_from:
 
 ---
 
-I am a first-year Ph.D. student at University of Pennsylvania advised by
-[Mayur Naik](https://www.cis.upenn.edu/~mhnaik/) and [Rajeev Alur](https://www.cis.upenn.edu/~alur/).
+Hello! My name is Alaia, and I am a first-year Ph.D. student at the University of Pennsylvania. I am fortunate to be advised by [Mayur Naik](https://www.cis.upenn.edu/~mhnaik/) and [Rajeev Alur](https://www.cis.upenn.edu/~alur/). My research interests include programming languages, program synthesis, and neurosymbolic learning.
+
+Previously, I did my B.S. and M.Eng. at Cornell University where I did research under [Nate Foster](https://www.cs.cornell.edu/~jnfoster/) and [Alexandra Silva](https://alexandrasilva.org/) on automata learning.
 
 # News
 ---
@@ -20,20 +21,8 @@ I am a first-year Ph.D. student at University of Pennsylvania advised by
 
 \[April 2022\] I will be starting my Ph.D. at University of Pennsylvania this fall!
 
-# Publications
----
+# Other
 
-**Petr4: Formal Foundations for P4 Data Planes**
+Outside of academic things, I like to run, cook, watch movies, and crochet. I am also passionate about animal rights and veganism 🌱.
 
-Ryan Doenges, Mina Tahmasbi Arashloo, Santiago Bautista, Alexander Chang, Newton Ni, Samwise Parkinson, Rudy Peterson, Alaia Solko-Breslin, Amanda Xu, and Nate Foster.
-PACM (POPL) 2021
-
-# Teaching
----
-
-* **Spring 2022** Teaching Assistant for CS 4160: Formal Verification
-* **Fall 2021** Teaching Assistant for CS 3110: Data Structures and Functional Programming
-* **Spring 2021** Teaching Assistant for [CS 4820: Introduction to Analysis of Algorithms](https://courses.cis.cornell.edu/courses/cs4820/2021sp/)
-* **Fall 2020** Teaching Assistant for [CS 4820: Introduction to Analysis of Algorithms](https://courses.cis.cornell.edu/courses/cs4820/2020fa/)
-* **Spring 2020** Teaching Assistant for [CS 3110: Data Structures and Functional Programming](https://www.cs.cornell.edu/courses/cs3110/2020sp/)
-* **Fall 2019** Teaching Assistant for [CS 3110: Data Structures and Functional Programming](https://www.cs.cornell.edu/courses/cs3110/2019fa/)
+In a past life, I was an avid [Tetirs player](https://jstris.jezevec10.com/u/Alaia/stats).

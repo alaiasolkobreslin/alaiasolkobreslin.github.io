@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Alaia Solko-Breslin"
   avatar           : "alaia.png"
-  bio              : "CIS Ph.D. student at University of Pennsylvania"
+  bio              : "alaia at seas.upenn.edu"
   location         : "Philadelphia, PA"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "alaia-solko-breslin"
-  orcid            : #"http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0009-0009-3723-5181"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
