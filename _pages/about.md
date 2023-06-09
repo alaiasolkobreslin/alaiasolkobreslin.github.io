@@ -25,4 +25,4 @@ Previously, I did my B.S. and M.Eng. at Cornell University where I did research 
 
 Outside of academic things, I like to run, cook, watch movies, and crochet. I am also passionate about animal rights and veganism 🌱.
 
-In a past life, I was an avid [Tetirs player](https://jstris.jezevec10.com/u/Alaia/stats).
+In a past life, I was an avid [Tetris player](https://jstris.jezevec10.com/u/Alaia/stats).
