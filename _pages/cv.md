@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 redirect_to:
-  - /files/cv_8-26-23.pdf
+  - /files/cv_9-6-23.pdf
 ---
 
 this is the cv page
