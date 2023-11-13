@@ -7,6 +7,7 @@ author_profile: true
 
 ## University of Pennsylvania
 
+* **Spring 2024** TA for CIS 7000: Special Topics: Trustworthy Machine Learning
 * **Fall 2023** TA for CIS 5000: Software Foundations
 
 ## Cornell University

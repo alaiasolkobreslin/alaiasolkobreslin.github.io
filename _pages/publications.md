@@ -5,14 +5,22 @@ permalink: /publications/
 author_profile: true
 ---
 
-[**Automata Learning with an Incomplete Teacher**](https://alaiasolkobreslin.github.io/files/ecoop23.pdf)
+## Conference Publications
 
-Mark Moeller, Thomas Wiener, **Alaia Solko-Breslin**, Caleb Koch, Nate Foster, and Alexandra Silva. 
+*   **Automata Learning with an Incomplete Teacher** [[PDF]](https://alaiasolkobreslin.github.io/files/ecoop23.pdf)
 
-ECOOP 2023
+    Mark Moeller, Thomas Wiener, **Alaia Solko-Breslin**, Caleb Koch, Nate Foster, and Alexandra Silva. 
 
-[**Petr4: Formal Foundations for P4 Data Planes**](https://alaiasolkobreslin.github.io/files/popl21.pdf)
+    ECOOP 2023
 
-Ryan Doenges, Mina Tahmasbi Arashloo, Santiago Bautista, Alexander Chang, Newton Ni, Samwise Parkinson, Rudy Peterson, **Alaia Solko-Breslin**, Amanda Xu, and Nate Foster.
+*  **Petr4: Formal Foundations for P4 Data Planes** [[PDF]](https://alaiasolkobreslin.github.io/files/popl21.pdf)
 
-POPL 2021
+    Ryan Doenges, Mina Tahmasbi Arashloo, Santiago Bautista, Alexander Chang, Newton Ni, Samwise Parkinson, Rudy Peterson, **Alaia Solko-Breslin**, Amanda Xu, and Nate Foster.
+
+    POPL 2021
+
+## Under Review
+
+* **Beyond Differentiability: Neurosymbolic Learning with Black-Box Programs**
+
+  **Alaia Solko-Breslin**, Ziyang Li, Neelay Velingker, Rajeev Alur, and Mayur Naik.
