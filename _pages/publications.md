@@ -24,3 +24,9 @@ author_profile: true
 * **Beyond Differentiability: Neurosymbolic Learning with Black-Box Programs**
 
   **Alaia Solko-Breslin**, Ziyang Li, Neelay Velingker, Rajeev Alur, and Mayur Naik.
+
+## Drafts
+
+* **Understanding the Effectiveness of Large Language Models in Detecting Security Vulnerabilities** [[PDF]](https://arxiv.org/pdf/2311.16169.pdf)
+
+  Avishree Khare*, Saikat Dutta*, Ziyang Li, **Alaia Solko-Breslin**, Rajeev Alur, and Mayur Naik
