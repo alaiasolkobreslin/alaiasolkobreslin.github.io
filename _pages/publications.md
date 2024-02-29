@@ -29,4 +29,4 @@ author_profile: true
 
 * **Understanding the Effectiveness of Large Language Models in Detecting Security Vulnerabilities** [[PDF]](https://arxiv.org/pdf/2311.16169.pdf)
 
-  Avishree Khare*, Saikat Dutta*, Ziyang Li, **Alaia Solko-Breslin**, Rajeev Alur, and Mayur Naik
+  Avishree Khare\*, Saikat Dutta\*, Ziyang Li, **Alaia Solko-Breslin**, Rajeev Alur, and Mayur Naik
