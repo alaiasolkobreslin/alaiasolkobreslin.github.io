@@ -7,7 +7,7 @@ author_profile: true
 
 ## Conference Publications
 
-*   [**Data-Efficient Learning with Neural Programs**](https://arxiv.org/abs/2406.06246), To appear at NeurIPS 2024.
+*   [**Data-Efficient Learning with Neural Programs**](https://alaiasolkobreslin.github.io/files/neurips24.pdf), NeurIPS 2024.
 
     **Alaia Solko-Breslin**, Seewon Choi, Ziyang Li, Neelay Velingker, Rajeev Alur, Mayur Naik, and Eric Wong.
 
