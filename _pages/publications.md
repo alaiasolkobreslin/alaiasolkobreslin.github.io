@@ -7,6 +7,10 @@ author_profile: true
 
 ## Conference Publications
 
+*   [**Understanding the Effectiveness of Large Language Models in Detecting Security Vulnerabilities**](https://arxiv.org/abs/2311.16169), ICST 2025.
+
+    Avishree Khare\*, Saikat Dutta\*, Ziyang Li, **Alaia Solko-Breslin**, Rajeev Alur, and Mayur Naik.
+
 *   [**Data-Efficient Learning with Neural Programs**](https://alaiasolkobreslin.github.io/files/neurips24.pdf), NeurIPS 2024.
 
     **Alaia Solko-Breslin**, Seewon Choi, Ziyang Li, Neelay Velingker, Rajeev Alur, Mayur Naik, and Eric Wong.
@@ -19,11 +23,6 @@ author_profile: true
 
     Ryan Doenges, Mina Tahmasbi Arashloo, Santiago Bautista, Alexander Chang, Newton Ni, Samwise Parkinson, Rudy Peterson, **Alaia Solko-Breslin**, Amanda Xu, and Nate Foster.
 
-## Preprints
-
-*   [**Understanding the Effectiveness of Large Language Models in Detecting Security Vulnerabilities**](https://arxiv.org/abs/2311.16169), Preprint 2024.
-
-    Avishree Khare\*, Saikat Dutta\*, Ziyang Li, **Alaia Solko-Breslin**, Rajeev Alur, and Mayur Naik.
 
 ## Other Writing
 
