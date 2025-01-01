@@ -7,7 +7,7 @@ author_profile: true
 
 ## Conference Publications
 
-*   [**Understanding the Effectiveness of Large Language Models in Detecting Security Vulnerabilities**](https://arxiv.org/abs/2311.16169), ICST 2025.
+*   [**Evaluating the Effectiveness of LLMs in Detecting Security Vulnerabilities**](https://arxiv.org/abs/2311.16169), ICST 2025.
 
     Avishree Khare\*, Saikat Dutta\*, Ziyang Li, **Alaia Solko-Breslin**, Rajeev Alur, and Mayur Naik.
 
