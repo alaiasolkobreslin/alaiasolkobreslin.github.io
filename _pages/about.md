@@ -9,6 +9,4 @@ redirect_from:
 
 ---
 
-Hello! My name is Alaia, and I am a third-year Ph.D. student at the University of Pennsylvania. I am fortunate to be advised by [Rajeev Alur](https://www.cis.upenn.edu/~alur/). I am currently working on neurosymbolic learning with black-box program components. My research is supported by a gift from [AWS](https://asset.seas.upenn.edu/penn-engineering-ph-d-students-receive-funding-from-amazon-to-advance-trustworthy-ai/).
-
-Previously, I did my B.S. and M.Eng. at Cornell University where I did research under [Nate Foster](https://www.cs.cornell.edu/~jnfoster/) and [Alexandra Silva](https://alexandrasilva.org/) on automata learning.
+Hello! My name is Alaia, and I am a third-year Ph.D. student at the University of Pennsylvania. I am fortunate to be advised by [Rajeev Alur](https://www.cis.upenn.edu/~alur/). My current research focuses on 1) scalable neurosymbolic learning algorithms and 2) trustworthy machine learning for healthcare applications. My goal is to use scalable neurosymbolic learning algorithms to apply medical domain knowledge to the problems of predicting sepsis and cardiac arrest. My research has previously been supported by a gift from [AWS](https://asset.seas.upenn.edu/penn-engineering-ph-d-students-receive-funding-from-amazon-to-advance-trustworthy-ai/).
