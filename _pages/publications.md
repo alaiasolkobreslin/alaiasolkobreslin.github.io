@@ -5,6 +5,12 @@ permalink: /publications/
 author_profile: true
 ---
 
+## Preprints
+
+*   [**CTSketch: Compositional Tensor Sketching for Scalable Neurosymbolic Learning**](https://alaiasolkobreslin.github.io/publications), 2025
+
+    Seewon Choi*, **Alaia Solko-Breslin\***, Rajeev Alur, and Eric Wong.
+
 ## Conference Publications
 
 *   [**Evaluating the Effectiveness of LLMs in Detecting Security Vulnerabilities**](https://arxiv.org/abs/2311.16169), ICST 2025.
