@@ -7,7 +7,7 @@ author_profile: true
 
 ## Preprints
 
-*   [**CTSketch: Compositional Tensor Sketching for Scalable Neurosymbolic Learning**](https://alaiasolkobreslin.github.io/publications), 2025
+*   [**CTSketch: Compositional Tensor Sketching for Scalable Neurosymbolic Learning**](https://arxiv.org/abs/2503.24123), 2025
 
     Seewon Choi*, **Alaia Solko-Breslin\***, Rajeev Alur, and Eric Wong.
 
