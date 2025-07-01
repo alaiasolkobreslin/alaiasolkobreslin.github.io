@@ -7,13 +7,13 @@ author_profile: true
 
 ## Preprints
 
-*   [**CTSketch: Compositional Tensor Sketching for Scalable Neurosymbolic Learning**](https://arxiv.org/abs/2503.24123), 2025
+*   [**CTSketch: Compositional Tensor Sketching for Scalable Neurosymbolic Learning**](https://arxiv.org/abs/2503.24123), 2025.
 
     Seewon Choi*, **Alaia Solko-Breslin\***, Rajeev Alur, and Eric Wong.
 
 ## Conference Publications
 
-*   [**Evaluating the Effectiveness of LLMs in Detecting Security Vulnerabilities**](https://arxiv.org/abs/2311.16169), ICST 2025.
+*   [**Understanding the Effectiveness of LLMs in Detecting Security Vulnerabilities**](https://alaiasolkobreslin.github.io/files/icst25.pdf), ICST 2025.
 
     Avishree Khare\*, Saikat Dutta\*, Ziyang Li, **Alaia Solko-Breslin**, Rajeev Alur, and Mayur Naik.
 
@@ -28,6 +28,8 @@ author_profile: true
 *  [**Petr4: Formal Foundations for P4 Data Planes**](https://alaiasolkobreslin.github.io/files/popl21.pdf), POPL 2021.
 
     Ryan Doenges, Mina Tahmasbi Arashloo, Santiago Bautista, Alexander Chang, Newton Ni, Samwise Parkinson, Rudy Peterson, **Alaia Solko-Breslin**, Amanda Xu, and Nate Foster.
+
+\* denotes equal contribution
 
 
 ## Other Writing
