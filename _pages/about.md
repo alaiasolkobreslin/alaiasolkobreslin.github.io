@@ -9,7 +9,7 @@ redirect_from:
 
 ---
 
-Hello! My name is Alaia, and I am a third-year Ph.D. student at the University of Pennsylvania. I am fortunate to be advised by [Rajeev Alur](https://www.cis.upenn.edu/~alur/). My current research interests include:
+Hello! My name is Alaia, and I am a fourth-year Ph.D. student at the University of Pennsylvania. I am fortunate to be advised by [Rajeev Alur](https://www.cis.upenn.edu/~alur/). My current research interests include:
 
 - Scalable neurosymbolic learning algorithms
 - Neurosymbolic applications, including reducing hallucinations in LLM-generated code and ML predictions in clinical settings.
@@ -17,17 +17,39 @@ Hello! My name is Alaia, and I am a third-year Ph.D. student at the University o
 
 In the past, I have interned in the [Automated Reasoning Group](https://www.amazon.science/research-areas/automated-reasoning) at AWS where I worked on using formal methods to improve the trustworthiness of LLM-generated code. My research has previously been supported by a gift from [AWS](https://asset.seas.upenn.edu/penn-engineering-ph-d-students-receive-funding-from-amazon-to-advance-trustworthy-ai/).
 
-## Research
+## Publications
 
-*   [**CTSketch: Compositional Tensor Sketching for Scalable Neurosymbolic Learning**](https://arxiv.org/abs/2503.24123), Preprint 2025.
+\* denotes equal contribution
 
-    Seewon Choi*, **Alaia Solko-Breslin\***, Rajeev Alur, and Eric Wong.
+### Preprints
 
-*   [**Data-Efficient Learning with Neural Programs**](https://alaiasolkobreslin.github.io/files/neurips24.pdf), NeurIPS 2024.
+*   [**CTSketch: Compositional Tensor Sketching for Scalable Neurosymbolic Learning**](https://arxiv.org/abs/2503.24123)  
+    Preprint 2025  
+    Seewon Choi*, **Alaia Solko-Breslin\***, Rajeev Alur, and Eric Wong
 
-    **Alaia Solko-Breslin**, Seewon Choi, Ziyang Li, Neelay Velingker, Rajeev Alur, Mayur Naik, and Eric Wong.
+### Conference Publications
 
-[All publications](https://alaiasolkobreslin.github.io/publications)
+*   [**Understanding the Effectiveness of LLMs in Detecting Security Vulnerabilities**](https://alaiasolkobreslin.github.io/files/icst25.pdf)  
+    ICST 2025  
+    Avishree Khare\*, Saikat Dutta\*, Ziyang Li, **Alaia Solko-Breslin**, Rajeev Alur, and Mayur Naik
+
+*   [**Data-Efficient Learning with Neural Programs**](https://alaiasolkobreslin.github.io/files/neurips24.pdf)  
+    NeurIPS 2024  
+    **Alaia Solko-Breslin**, Seewon Choi, Ziyang Li, Neelay Velingker, Rajeev Alur, Mayur Naik, and Eric Wong
+
+*   [**Automata Learning with an Incomplete Teacher**](https://alaiasolkobreslin.github.io/files/ecoop23.pdf)  
+    ECOOP 2023  
+    Mark Moeller, Thomas Wiener, **Alaia Solko-Breslin**, Caleb Koch, Nate Foster, and Alexandra Silva
+
+*  [**Petr4: Formal Foundations for P4 Data Planes**](https://alaiasolkobreslin.github.io/files/popl21.pdf)  
+    POPL 2021  
+    Ryan Doenges, Mina Tahmasbi Arashloo, Santiago Bautista, Alexander Chang, Newton Ni, Samwise Parkinson, Rudy Peterson, **Alaia Solko-Breslin**, Amanda Xu, and Nate Foster
+
+### Other Writing
+
+*   [**Learning Neural Programs**](https://alaiasolkobreslin.github.io/files/WPE_II.pdf)  
+    UPenn WPE-II Research Qualifier 2024  
+    **Alaia Solko-Breslin**
 
 ## Teaching
 
