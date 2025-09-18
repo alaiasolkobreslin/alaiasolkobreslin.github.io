@@ -21,13 +21,11 @@ In the past, I have interned in the [Automated Reasoning Group](https://www.amaz
 
 \* denotes equal contribution
 
-### Preprints
+### Conference Publications
 
 *   [**CTSketch: Compositional Tensor Sketching for Scalable Neurosymbolic Learning**](https://arxiv.org/abs/2503.24123)  
-    Preprint 2025  
+    NeurIPS 2025  
     Seewon Choi*, **Alaia Solko-Breslin\***, Rajeev Alur, and Eric Wong
-
-### Conference Publications
 
 *   [**Understanding the Effectiveness of LLMs in Detecting Security Vulnerabilities**](https://alaiasolkobreslin.github.io/files/icst25.pdf)  
     ICST 2025  
