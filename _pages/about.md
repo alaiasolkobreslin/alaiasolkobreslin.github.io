@@ -23,31 +23,31 @@ In the past, I have interned in the [Automated Reasoning Group](https://www.amaz
 
 ### Conference Publications
 
-*   [**CTSketch: Compositional Tensor Sketching for Scalable Neurosymbolic Learning**](https://arxiv.org/abs/2503.24123)  
-    NeurIPS 2025  
-    Seewon Choi*, **Alaia Solko-Breslin\***, Rajeev Alur, and Eric Wong
+*   [**CTSketch: Compositional Tensor Sketching for Scalable Neurosymbolic Learning**](https://alaiasolkobreslin.github.io/files/neurips25.pdf)  
+    Seewon Choi*, **Alaia Solko-Breslin\***, Rajeev Alur, and Eric Wong  
+    NeurIPS 2025
 
 *   [**Understanding the Effectiveness of LLMs in Detecting Security Vulnerabilities**](https://alaiasolkobreslin.github.io/files/icst25.pdf)  
-    ICST 2025  
-    Avishree Khare\*, Saikat Dutta\*, Ziyang Li, **Alaia Solko-Breslin**, Rajeev Alur, and Mayur Naik
+    Avishree Khare\*, Saikat Dutta\*, Ziyang Li, **Alaia Solko-Breslin**, Rajeev Alur, and Mayur Naik  
+    ICST 2025
 
 *   [**Data-Efficient Learning with Neural Programs**](https://alaiasolkobreslin.github.io/files/neurips24.pdf)  
-    NeurIPS 2024  
-    **Alaia Solko-Breslin**, Seewon Choi, Ziyang Li, Neelay Velingker, Rajeev Alur, Mayur Naik, and Eric Wong
+    **Alaia Solko-Breslin**, Seewon Choi, Ziyang Li, Neelay Velingker, Rajeev Alur, Mayur Naik, and Eric Wong  
+    NeurIPS 2024
 
 *   [**Automata Learning with an Incomplete Teacher**](https://alaiasolkobreslin.github.io/files/ecoop23.pdf)  
-    ECOOP 2023  
-    Mark Moeller, Thomas Wiener, **Alaia Solko-Breslin**, Caleb Koch, Nate Foster, and Alexandra Silva
+    Mark Moeller, Thomas Wiener, **Alaia Solko-Breslin**, Caleb Koch, Nate Foster, and Alexandra Silva  
+    ECOOP 2023
 
 *  [**Petr4: Formal Foundations for P4 Data Planes**](https://alaiasolkobreslin.github.io/files/popl21.pdf)  
-    POPL 2021  
-    Ryan Doenges, Mina Tahmasbi Arashloo, Santiago Bautista, Alexander Chang, Newton Ni, Samwise Parkinson, Rudy Peterson, **Alaia Solko-Breslin**, Amanda Xu, and Nate Foster
+    Ryan Doenges, Mina Tahmasbi Arashloo, Santiago Bautista, Alexander Chang, Newton Ni, Samwise Parkinson, Rudy Peterson, **Alaia Solko-Breslin**, Amanda Xu, and Nate Foster  
+    POPL 2021
 
 ### Other Writing
 
 *   [**Learning Neural Programs**](https://alaiasolkobreslin.github.io/files/WPE_II.pdf)  
-    UPenn WPE-II Research Qualifier 2024  
-    **Alaia Solko-Breslin**
+    **Alaia Solko-Breslin**  
+    UPenn WPE-II Research Qualifier 2024
 
 ## Teaching
 
