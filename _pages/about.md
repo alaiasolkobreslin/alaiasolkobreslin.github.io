@@ -22,7 +22,7 @@ In the past, I have interned in the [Automated Reasoning Group](https://www.amaz
 ### Preprints
 
 *   [**CAMEL: An ECG Language Model for Forecasting Cardiac Events**](https://arxiv.org/abs/2602.15677)  
-    Neelay Velingker*, **Alaia Solko-Breslin\***, Mayank Keoliya*, Seewon Choi*, Jiayi Xin, Anika Marathe, Alireza Oraii, Rajat Deo, Sameed Khatana, Rajeev Alur, Mayur Naik, and Eric Wong  
+    Neelay Velingker\*, **Alaia Solko-Breslin\***, Mayank Keoliya\*, Seewon Choi\*, Jiayi Xin, Anika Marathe, Alireza Oraii, Rajat Deo, Sameed Khatana, Rajeev Alur, Mayur Naik, and Eric Wong  
     2026
 
 ### Conference Publications
