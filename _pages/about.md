@@ -9,21 +9,27 @@ redirect_from:
 
 ---
 
-Hello! My name is Alaia, and I am a fourth-year Ph.D. student at the University of Pennsylvania. I am fortunate to be advised by [Rajeev Alur](https://www.cis.upenn.edu/~alur/). My current research interests include:
+Hello! My name is Alaia, and I am a fourth-year Ph.D. student at the University of Pennsylvania where I am fortunate to be advised by [Rajeev Alur](https://www.cis.upenn.edu/~alur/).
+My current research interests include:
 
-- Scalable neurosymbolic learning algorithms
-- Neurosymbolic applications, including reducing hallucinations in LLM-generated code and ML predictions in clinical settings.
+- Policy enforcement for agents
+- Constrained decoding of LLMs for code generation
+- Clinical forecasting
 
-
-In the past, I have interned in the [Automated Reasoning Group](https://www.amazon.science/research-areas/automated-reasoning) at AWS where I worked on using formal methods to improve the trustworthiness of LLM-generated code. My research has previously been supported by a gift from [AWS](https://asset.seas.upenn.edu/penn-engineering-ph-d-students-receive-funding-from-amazon-to-advance-trustworthy-ai/).
+Currently, I am a student researcher at [Google DeepMind](https://deepmind.google), working on policy enforcement for agents.
+In the past, I have interned in the Agentic AI/[Automated Reasoning Group](https://www.amazon.science/research-areas/automated-reasoning) at AWS where I worked on automated inference of API preconditions to improve the correctness of LLM-generated code. My research has previously been supported by a gift from [AWS](https://asset.seas.upenn.edu/penn-engineering-ph-d-students-receive-funding-from-amazon-to-advance-trustworthy-ai/).
 
 ## Publications
 
 ### Preprints
 
+*   [**Efficient and Sound Probabilistic Verification for AI Agents**](https://arxiv.org/abs/2606.20510)  
+    **Alaia Solko-Breslin**, Pramod Kaushik Mudrakarta, Mihai Christodorescu, Somesh Jha, and Krishnamurthy Dj Dvijotham  
+    June 2026
+
 *   [**CAMEL: An ECG Language Model for Forecasting Cardiac Events**](https://arxiv.org/abs/2602.15677)  
     Neelay Velingker\*, **Alaia Solko-Breslin\***, Mayank Keoliya\*, Seewon Choi\*, Jiayi Xin, Anika Marathe, Alireza Oraii, Rajat Deo, Sameed Khatana, Rajeev Alur, Mayur Naik, and Eric Wong  
-    2026
+    February 2026
 
 ### Conference Publications
 
@@ -49,6 +55,10 @@ In the past, I have interned in the [Automated Reasoning Group](https://www.amaz
 
 ### Other Writing
 
+*   [**Development and Validation of a New Large Language Model for Detecting Atrial Fibrillation**](https://alaiasolkobreslin.github.io/files/hrs26.pdf)  
+    Seewon Choi, Mayank Keoliya, **Alaia Solko-Breslin**, Neelay Velingker, Alireza Oraii, Rajeev Alur, Rajat Deo, Sameed Ahmed Khatana, Mayur Naik, and Eric Wong  
+    Heart Rhythm Society 2026
+
 *   [**Learning Neural Programs**](https://alaiasolkobreslin.github.io/files/WPE_II.pdf)  
     **Alaia Solko-Breslin**  
     UPenn WPE-II Research Qualifier 2024
@@ -72,7 +82,7 @@ In the past, I have interned in the [Automated Reasoning Group](https://www.amaz
 
 ## Service
 
-- Reviewer, NeurIPS 2025, ICML 2026
+- Reviewer: NeurIPS 2025, ICML 2026
 
 ## Other
 
