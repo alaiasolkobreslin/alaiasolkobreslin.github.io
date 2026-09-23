@@ -9,29 +9,22 @@ redirect_from:
 
 ---
 
-Hello! My name is Alaia, and I am a fourth-year Ph.D. student at the University of Pennsylvania where I am fortunate to be advised by [Rajeev Alur](https://www.cis.upenn.edu/~alur/).
-My current research interests include:
+Hello! My name is Alaia, and I am a fifth-year Ph.D. student at the University of Pennsylvania where I am fortunate to be advised by [Rajeev Alur](https://www.cis.upenn.edu/~alur/).
+Currently, my research centers around developing formal techniques for policy enforcement in agents.
 
-- Policy enforcement for agents
-- Constrained decoding of LLMs for code generation
-- Clinical forecasting
+> I am looking for full-time research scientist roles starting Summer 2027!
 
-Currently, I am a student researcher at [Google DeepMind](https://deepmind.google), working on policy enforcement for agents.
-In the past, I have interned in the Agentic AI/[Automated Reasoning Group](https://www.amazon.science/research-areas/automated-reasoning) at AWS where I worked on automated inference of API preconditions to improve the correctness of LLM-generated code. My research has previously been supported by a gift from [AWS](https://asset.seas.upenn.edu/penn-engineering-ph-d-students-receive-funding-from-amazon-to-advance-trustworthy-ai/).
+Currently, I am a student researcher at [Google DeepMind](https://deepmind.google), working on agentic security.
+In the past, I have interned in the Agentic AI/[Automated Reasoning Group](https://www.amazon.science/research-areas/automated-reasoning) at AWS.
+My research has previously been supported by a gift from [AWS](https://asset.seas.upenn.edu/penn-engineering-ph-d-students-receive-funding-from-amazon-to-advance-trustworthy-ai/).
 
 ## Publications
 
-### Preprints
+### Conference Publications
 
 *   [**Efficient and Sound Probabilistic Verification for AI Agents**](https://arxiv.org/abs/2606.20510)  
-    **Alaia Solko-Breslin**, Pramod Kaushik Mudrakarta, Mihai Christodorescu, Somesh Jha, and Krishnamurthy Dj Dvijotham  
-    June 2026
-
-*   [**CAMEL: An ECG Language Model for Forecasting Cardiac Events**](https://arxiv.org/abs/2602.15677)  
-    Neelay Velingker\*, **Alaia Solko-Breslin\***, Mayank Keoliya\*, Seewon Choi\*, Jiayi Xin, Anika Marathe, Alireza Oraii, Rajat Deo, Sameed Khatana, Rajeev Alur, Mayur Naik, and Eric Wong  
-    February 2026
-
-### Conference Publications
+    **Alaia Solko-Breslin**, Pramod Kaushik Mudrakarta, Mihai Christodorescu, Somesh Jha, and Krishnamurthy (Dj) Dvijotham  
+    S&P 2027
 
 *   [**CTSketch: Compositional Tensor Sketching for Scalable Neurosymbolic Learning**](https://alaiasolkobreslin.github.io/files/neurips25.pdf)  
     Seewon Choi*, **Alaia Solko-Breslin\***, Rajeev Alur, and Eric Wong  
@@ -53,16 +46,6 @@ In the past, I have interned in the Agentic AI/[Automated Reasoning Group](https
     Ryan Doenges, Mina Tahmasbi Arashloo, Santiago Bautista, Alexander Chang, Newton Ni, Samwise Parkinson, Rudy Peterson, **Alaia Solko-Breslin**, Amanda Xu, and Nate Foster  
     POPL 2021
 
-### Other Writing
-
-*   [**Development and Validation of a New Large Language Model for Detecting Atrial Fibrillation**](https://alaiasolkobreslin.github.io/files/hrs26.pdf)  
-    Seewon Choi, Mayank Keoliya, **Alaia Solko-Breslin**, Neelay Velingker, Alireza Oraii, Rajeev Alur, Rajat Deo, Sameed Ahmed Khatana, Mayur Naik, and Eric Wong  
-    Heart Rhythm Society 2026
-
-*   [**Learning Neural Programs**](https://alaiasolkobreslin.github.io/files/WPE_II.pdf)  
-    **Alaia Solko-Breslin**  
-    UPenn WPE-II Research Qualifier 2024
-
 \* equal contribution
 
 ## Teaching
@@ -82,7 +65,8 @@ In the past, I have interned in the Agentic AI/[Automated Reasoning Group](https
 
 ## Service
 
-- Reviewer: NeurIPS 2025, ICML 2026
+- 2026 Reviewer: ICML, NeurIPS
+- 2025 Reviewer: NeurIPS
 
 ## Other
 
