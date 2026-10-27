@@ -24,7 +24,12 @@ My research has previously been supported by a gift from [AWS](https://asset.sea
 
 *   [**Efficient and Sound Probabilistic Verification for AI Agents**](https://arxiv.org/abs/2606.20510)  
     **Alaia Solko-Breslin**, Pramod Kaushik Mudrakarta, Mihai Christodorescu, Somesh Jha, and Krishnamurthy (Dj) Dvijotham  
-    S&P 2027
+    S&P (Oakland) 2027  
+    FLMSec@NeurIPS 2026 (Distinguished Paper Award 🏆)
+
+*   [**Forecasting Shockable In-Hospital Cardiac Arrest from Continuous Telemetry**](https://alaiasolkobreslin.github.io/)  
+    Seewon Choi*, Mayank Keoliya*, Neelay Velingker*, **Alaia Solko-Breslin**, Alireza Oraii, Sameed Khatana, Mayur Naik, Gary E. Weissman, Eric Wong, Rajeev Alur, and Rajat Deo  
+    ML4H Findings 2026
 
 *   [**CTSketch: Compositional Tensor Sketching for Scalable Neurosymbolic Learning**](https://alaiasolkobreslin.github.io/files/neurips25.pdf)  
     Seewon Choi*, **Alaia Solko-Breslin\***, Rajeev Alur, and Eric Wong  
@@ -65,7 +70,7 @@ My research has previously been supported by a gift from [AWS](https://asset.sea
 
 ## Service
 
-- 2026 Reviewer: ICML, NeurIPS
+- 2026 Reviewer: ICML, NeurIPS, FLMSec@NeurIPS
 - 2025 Reviewer: NeurIPS
 
 ## Other
