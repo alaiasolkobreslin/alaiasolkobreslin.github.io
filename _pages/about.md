@@ -28,7 +28,7 @@ My research has previously been supported by a gift from [AWS](https://asset.sea
     FLMSec@NeurIPS 2026 (Distinguished Paper Award 🏆)
 
 *   [**Forecasting Shockable In-Hospital Cardiac Arrest from Continuous Telemetry**](https://alaiasolkobreslin.github.io/)  
-    Seewon Choi*, Mayank Keoliya*, Neelay Velingker*, **Alaia Solko-Breslin**, Alireza Oraii, Sameed Khatana, Mayur Naik, Gary E. Weissman, Eric Wong, Rajeev Alur, and Rajat Deo  
+    Seewon Choi\*, Mayank Keoliya\*, Neelay Velingker\*, **Alaia Solko-Breslin**, Alireza Oraii, Sameed Khatana, Mayur Naik, Gary E. Weissman, Eric Wong, Rajeev Alur, and Rajat Deo  
     ML4H Findings 2026
 
 *   [**CTSketch: Compositional Tensor Sketching for Scalable Neurosymbolic Learning**](https://alaiasolkobreslin.github.io/files/neurips25.pdf)  
