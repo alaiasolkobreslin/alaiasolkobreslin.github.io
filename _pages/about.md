@@ -20,6 +20,12 @@ My research has previously been supported by a gift from [AWS](https://asset.sea
 
 ## Publications
 
+### Preprints
+
+*   [**Tether: Verified Stateful Policy Engine for System-Level Monitoring of Agents**]((https://arxiv.org/abs/2611.25599))  
+    Meghana Aparna Sistla, **Alaia Solko-Breslin**, Somesh Jha, Aditya Kanade, Krishnamurthy (Dj) Dvijotham  
+    November 2026
+
 ### Conference Publications
 
 *   [**Efficient and Sound Probabilistic Verification for AI Agents**](https://arxiv.org/abs/2606.20510)  
