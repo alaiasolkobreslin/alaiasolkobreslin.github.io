@@ -22,7 +22,7 @@ My research has previously been supported by a gift from [AWS](https://asset.sea
 
 ### Preprints
 
-*   [**Tether: Verified Stateful Policy Engine for System-Level Monitoring of Agents**]((https://arxiv.org/abs/2611.25599))  
+*   [**Tether: Verified Stateful Policy Engine for System-Level Monitoring of Agents**](https://arxiv.org/abs/2611.25599)  
     Meghana Aparna Sistla, **Alaia Solko-Breslin**, Somesh Jha, Aditya Kanade, Krishnamurthy (Dj) Dvijotham  
     November 2026
 
